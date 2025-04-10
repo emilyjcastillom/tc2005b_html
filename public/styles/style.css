@@ -2,6 +2,23 @@ a{
     color : rgb(222,82,133);
 }
 
+<<<<<<< HEAD
 #profile_id {
     color : rgb(76,34,92);
 }
+=======
+.lorem{
+    background-color: violet;
+}
+
+#profile_id {
+    color : rgb(76,34,92);
+}
+p{
+    font-family: Georgia, serif;
+}
+
+h2{
+    font-family: Milonga, serif;
+}
+>>>>>>> a53b53603ebc9d9da0c59539f929e577f658b330
